@@ -1,0 +1,29 @@
+You have to create a package named com.codewithharry.shape
+this package should have individual classes for rectangle, square,circle,cylinder
+These classes should use inheritance to properly manage the code!
+Include methods like volume,surface area and getters/setters for dimension
+
+
+
+formulas
+
+rectangle :
+
+surface : 2*w+H
+area: w*H
+
+square:
+
+surface : 2*a
+area a*a
+
+circle:
+
+surface: 2*π*r
+area:π*r*r
+
+
+
+cylinder:
+surface: πr*rh
+area: 2πrh+2πr^2
